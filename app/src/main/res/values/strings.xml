@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kanchan Silks And Sarees</string>
+    <string name="address">Shop N.o-14,15, Maruthi Complex, Line Bazar Road Opp. Maruthi Temple, Karnataka 580001, India</string>
+    <string name="business_name">Kanchan Silk And Sarees Dharwad.</string>
+    <string name="business_phone">+91 836 221 1107</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="weekday_hours">11AM–8PM</string>
+    <string name="sunday_hours">Closed</string>
+    <string name="business_image_desc">Business Image of Kanchan Silk and Sarees</string>
+    <string name="store_phone">Store phone number for kanchan Silk and Sarees</string>
+    <string name="store_hours">Store hours for Kanchan Silk and Sarees</string>
+    <string name="store_location">Store Location for Kanchan Silk and Sarees</string>
+</resources>
